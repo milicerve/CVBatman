@@ -1,0 +1,62 @@
+.logoPortada {
+  background-color: #e5e5e5;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  background-color: #c4c4c4;
+  color: #005677;
+  text-transform: uppercase;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  font-size: 35px;
+  letter-spacing: 10px;
+  margin: 0px;
+}
+
+main {
+  max-width: 1041px;
+  margin: 50px auto;
+}
+
+h2 {
+  background-color: #c4c4c4;
+  color: #005677;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul li {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+li span {
+  font-style: italic;
+}
+
+dl {
+  margin: 27px;
+  font-size: 15px;
+}
+
+footer {
+  text-align: center;
+  background-color: #005677;
+  padding-bottom: 0.5%;
+  padding-top: 0.5%;
+}
+
+.contacto {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  font-size: 20px;
+}
